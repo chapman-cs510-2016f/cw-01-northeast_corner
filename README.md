@@ -19,6 +19,11 @@ Analyze in this section what you found useful about this assignment in your own 
 
 **CHANGEME**
 
+_INSTRUCTOR COMMENTS:_
+_Looks like you didn't finish the classwork! The python test part was done correctly. Note that the formatting of Markdown is very picky: the \#\#Assessment above is not rendering as a subsection because there is not a blank line before it._
+
+_Be sure to keep up with classwork/homeworks! If you get behind in this course, it will be very difficult to catch up, because all the material is cumulative. If you are having trouble, please seek office hours, speak to classmates who can help, and spend the needed time reading and working through coding examples on your own. There are many resources in the info repository, and Google is your friend._
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
